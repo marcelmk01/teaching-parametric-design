@@ -28,7 +28,7 @@ function draw() {
   stroke(0,40,20)
   line(260,60,100,10);
   fill("yellow");
-  ellipse(200,150,50,50);
+  ellipse(200,150,40,50);
   fill("blue");
   stroke(0,0,180)
   ellipse(260,80,150,25);
