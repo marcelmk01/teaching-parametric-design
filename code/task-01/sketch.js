@@ -3,7 +3,8 @@ function setup() {
 }
 
 function draw() {
-  background(160);
+  noLoop();
+  background(random() * 255);
   stroke(90,30,30)
   rect(20,280,140,20);
   fill("brown");
